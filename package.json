@@ -1,0 +1,20 @@
+{
+  "name": "simple-UI",
+  "version": "1.0.0",
+  "description": "An Oracle JavaScript Extension Toolkit(JET) web app",
+  "dependencies": {
+    "@oracle/oraclejet": "~8.1.0"
+  },
+  "devDependencies": {
+    "@oracle/oraclejet-tooling": "~8.1.0",
+    "jasmine-core": "^3.5.0",
+    "karma": "^5.0.1",
+    "karma-coverage": "^2.0.1",
+    "karma-jasmine": "^3.1.1",
+    "karma-requirejs": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
