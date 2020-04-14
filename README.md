@@ -1,2 +1,2 @@
-# small-exercise
-simple-ui
+# Second Round
+Small exercise
